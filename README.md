@@ -26,7 +26,7 @@ Before running the chatbot, ensure that you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ai-mental-health-chatbot.git
+   git clone [https://github.com/your-username/ai-mental-health-chatbot.git](https://github.com/Chelseasingla1/AI_Mental_Health_Chatbot.git)
    ```
 2. **Navigate to the Project Directory**:
    ```bash
