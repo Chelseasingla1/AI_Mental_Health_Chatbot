@@ -10,6 +10,13 @@ Welcome to the AI Mental Health Chatbot project! This repository contains a simp
 - **Real-Time Interactions**: Engage in real-time conversations with the chatbot to get instant responses to your queries.
 - **Easy to Use**: A straightforward command-line interface ensures that anyone can easily interact with the chatbot.
 
+## ScreenShots
+
+![image](https://github.com/user-attachments/assets/722b18b5-e409-466a-9522-90f6b009cc5a)
+
+![Screenshot 2024-08-12 175917](https://github.com/user-attachments/assets/cbb6d647-a4ca-4b22-8fe0-352802ea18a6)
+
+
 ## 🛠️ How It Works
 
 The chatbot uses the `OllamaLLM` model from Langchain and the `ChatPromptTemplate` to generate responses based on the conversation history. The conversation flow is managed within the `handle_conversation` function, which continually updates the context to maintain a natural dialogue.
@@ -26,7 +33,7 @@ Before running the chatbot, ensure that you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/your-username/ai-mental-health-chatbot.git](https://github.com/Chelseasingla1/AI_Mental_Health_Chatbot.git)
+   git clone https://github.com/Chelseasingla1/AI_Mental_Health_Chatbot.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -57,7 +64,7 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ## 📧 Contact
 
-For any questions or suggestions, please contact me at [your-email@example.com](mailto:chelseasingla123@gmail.com).
+For any questions or suggestions, please contact me at [chelseasingla123@gmail.com](mailto:chelseasingla123@gmail.com).
 
 ---
 
