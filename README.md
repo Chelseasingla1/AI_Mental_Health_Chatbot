@@ -16,6 +16,9 @@ Welcome to the AI Mental Health Chatbot project! This repository contains a simp
 
 ![Screenshot 2024-08-12 175917](https://github.com/user-attachments/assets/cbb6d647-a4ca-4b22-8fe0-352802ea18a6)
 
+## Video
+
+https://youtu.be/sBEijcOz-OY
 
 ## 🛠️ How It Works
 
